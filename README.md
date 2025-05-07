@@ -1,11 +1,21 @@
 <div>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/IagoAlves1">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=IagoAlves1" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/IagoAlves1">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+</div>
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</div>
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </div>
