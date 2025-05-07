@@ -1,17 +1,17 @@
 <div>
   
 <a href="https://github.com/IagoAlves1">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=IagoAlves1" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=IagoAlves1&theme=dark" />
 </a>
 
 <a href="https://github.com/IagoAlves1">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=8&card_width=320" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=16&theme=dark" />
 </a>
 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="Docker" height="0" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 </div>
 
