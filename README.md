@@ -10,7 +10,7 @@ Atualmente, minha principal linguagem de programação é **Python**, com foco e
   <img height=150em src="https://github-readme-stats.vercel.app/api?username=IagoAlves1&theme=onedark" />
 </a>
 <a href="https://github.com/IagoAlves1">
-  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=16&theme=onedark" />
+  <img height=130em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=16&theme=onedark" />
 </a>
 </div>
 <br>
