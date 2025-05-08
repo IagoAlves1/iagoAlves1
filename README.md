@@ -1,9 +1,9 @@
 <div>
 <a href="https://github.com/IagoAlves1">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=IagoAlves1&theme=dark" />
+  <img height=180em width=50em src="https://github-readme-stats.vercel.app/api?username=IagoAlves1&theme=dark" />
 </a>
 <a href="https://github.com/IagoAlves1">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=16&theme=dark" />
+  <img height=180em width=50em src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoAlves1&layout=compact&langs_count=16&theme=dark" />
 </a>
 </div>
 <div>
