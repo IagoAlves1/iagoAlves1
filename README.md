@@ -2,7 +2,7 @@
 
 ### Estou focado em desenvolver projetos e atividades voltados para o back-end.
 
-Atualmente, minha principal linguagem de programação é **Python**, com foco especial em ferramentas como **FastAPI** e **Docker** para construir APIs modernas, escaláveis e bem estruturadas.
+Atualmente, minha principal linguagem de programação é **Python**, com foco especial em ferramentas como **FastAPI** e **Docker** para construir APIs.
 
 
 <div>
