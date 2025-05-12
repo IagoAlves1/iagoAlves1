@@ -2,7 +2,8 @@
 
 ### Estou focado em desenvolver projetos e atividades voltados para o back-end.
 
-Atualmente, minha principal linguagem de programação é **Python**, com foco especial em ferramentas como **FastAPI** e **Docker** para construir APIs.
+Atualmente, minha principal linguagem de programação é **Python**, estou utilizando **FastAPI** e **Docker** para construir APIs RESTful.
+O projeto que estou desenvolvendo no momento está disponível em meus <a href="https://github.com/IagoAlves1?tab=repositories">repositórios públicos</a>, uma API CRUD de usuários com autenticação e escalável.
 
 
 <div>
