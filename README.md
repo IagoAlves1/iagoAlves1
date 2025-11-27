@@ -1,6 +1,6 @@
 ## Olá! Sou o Iago, seja bem-vindo(a) ao meu GitHub! 👋
 
-##Sou um grande curioso, aqui é o lugar no qual deixo alguns de meus projetos abertos ao público, fique à vontade para explorar!
+## Sou um grande curioso, aqui é o lugar no qual deixo alguns de meus projetos abertos ao público, fique à vontade para explorar!
 
 
 <div>
