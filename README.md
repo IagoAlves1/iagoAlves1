@@ -1,9 +1,6 @@
 ## Olá! Sou o Iago, seja bem-vindo(a) ao meu GitHub! 👋
 
-### Estou focado em desenvolver projetos e atividades voltados para o back-end.
-
-Atualmente, minha principal linguagem de programação é **Python**, estou utilizando **FastAPI** e **Docker** para construir APIs RESTful.
-O projeto que estou desenvolvendo no momento está disponível em meus <a href="https://github.com/IagoAlves1?tab=repositories">repositórios públicos</a>, uma API CRUD de usuários com autenticação e escalável.
+##Sou um grande curioso, aqui é o lugar no qual deixo alguns de meus projetos abertos ao público, fique à vontade para explorar!
 
 
 <div>
